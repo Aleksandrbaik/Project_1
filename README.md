@@ -11,7 +11,7 @@
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, как вы знаете, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
-:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md)
 
 
 ### Какой кейс решаем?    
@@ -56,7 +56,7 @@
 - DataSet не сохранен на GitHub из-за ограничений размерности, он доступен по ссылке выше.
 - В дирректории Plotly лежат сохраненные графики в формате HTML
   
-:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md)
 
 
 ### Этапы работы над проектом  
@@ -65,7 +65,7 @@
 3. Очистка данных;
 4. Выводы и предложения.
 
-:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md)
 
 
 ### Результат:  
@@ -75,7 +75,7 @@
    4. Код несколько раз отчитан на соответствие стандарту PEP8;
    5. Воспроизводимость кода проверена в VS Code и Spider (Anaconda 3).
 
-:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md)
 
 
 ### Выводы:  
@@ -83,4 +83,4 @@ DataScience сложная, но увлекательная наука.
 
 
 
-:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md)
