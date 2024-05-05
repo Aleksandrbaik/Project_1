@@ -1,17 +1,17 @@
 # PROJECT-1. Анализ резюме из HeadHunter (Блок 1 по Python)
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Описаниепроекта)  
-[2. Какой кейс решаем?](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Результат)  
-[6. Выводы](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md#Выводы)     
+[1. Описание проекта](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md#Описаниепроекта)  
+[2. Какой кейс решаем?](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md#Результат)  
+[6. Выводы](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md#Выводы)     
 
 ### Описание проекта    
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, как вы знаете, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить.
 
-:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md)
+:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md)
 
 
 ### Какой кейс решаем?    
@@ -56,7 +56,7 @@
 - DataSet не сохранен на GitHub из-за ограничений размерности, он доступен по ссылке выше.
 - В дирректории Plotly лежат сохраненные графики в формате HTML
   
-:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md)
+:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md)
 
 
 ### Этапы работы над проектом  
@@ -65,7 +65,7 @@
 3. Очистка данных;
 4. Выводы и предложения.
 
-:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md)
+:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md)
 
 
 ### Результат:  
@@ -75,7 +75,7 @@
    4. Код несколько раз отчитан на соответствие стандарту PEP8;
    5. Воспроизводимость кода проверена в VS Code и Spider (Anaconda 3).
 
-:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md)
+:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md)
 
 
 ### Выводы:  
@@ -83,4 +83,4 @@ DataScience сложная, но увлекательная наука.
 
 
 
-:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1.git/tree/main/project_1/README.md)
+:arrow_up:[к оглавлению](https://github.com/Aleksandrbaik/Project_1/blob/main/README.md)
